@@ -1,0 +1,19 @@
+{
+  "name": "react-with-webpack2",
+  "version": "1.0.0",
+  "description": "study of webpack2 with reactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjb3/reactJS-webpack2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjb3/reactJS-webpack2/issues"
+  },
+  "homepage": "https://github.com/sjb3/reactJS-webpack2#readme"
+}
